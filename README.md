@@ -11,8 +11,6 @@ Don't dry with fakes or fears.
 </p>
 
 <p align="center">
-   <code>Naruto</code>
-  &nbsp;·&nbsp;
   <code>LLM Inference</code>
   &nbsp;·&nbsp;
   <code>KV Cache</code>
