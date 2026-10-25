@@ -24,8 +24,8 @@ Don't dry with fakes or fears.
 
 ## 现在在做什么
 
-| | 方向 | 具体在做什么 |
-|:--:|---|---|
+| | 方向 | 
+|:--:|---|
 | ⚡ | **Inference Systems** | 
 | 🧩 | **GPU Kernels** | 
 | 🎯 | **Ascend** | 
