@@ -26,9 +26,9 @@ Don't dry with fakes or fears.
 
 | | 方向 | 具体在做什么 |
 |:--:|---|---|
-| ⚡ | **Inference Systems** | KV cache 的量化与调度；投机解码的接受率与验证成本 |
-| 🧩 | **GPU Kernels** | CUDA / Triton 算子；用 Nsight 找真正的瓶颈，而不是猜 |
-| 🎯 | **Ascend** | 把已有的推理优化迁到昇腾：算子约束、图模式、通信 |
+| ⚡ | **Inference Systems** | 
+| 🧩 | **GPU Kernels** | 
+| 🎯 | **Ascend** | 
 
 ## 技术栈
 
